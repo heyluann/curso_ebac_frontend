@@ -40,3 +40,7 @@ form button:hover {
 #decoration {
     cursor: pointer;
 }
+
+.riscar {
+    text-decoration: line-through;
+}
